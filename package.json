@@ -36,11 +36,11 @@
     "author": "301210182 Arsham Faghihnasiri",
     "license": "ISC",
     "bugs": {
-      "url": "https://https://github.com/arshanmfn/Comp229_Assignment2/issues"
+      "url": "https://github.com/ArshamFN/assignment1plus2/issues"
     },
-    "homepage": "https://https://github.com/arshamfn/Comp229_Assignment2#readme",
+    "homepage": "https://github.com/ArshamFN/assignment1plus2#readme",
     "keywords": [
-      "assignment-2"
+      "assignment-1+2"
     ],
     "devDependencies": {
       "@types/connect-flash": "^0.0.37",
